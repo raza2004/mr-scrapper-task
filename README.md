@@ -1,9 +1,3 @@
-# mr-scrapper-task
- 
-Below is a professional `README.md` file for your project. It provides clear instructions on how to set up and run the application, including installing dependencies and starting the server.
-
----
-
 # eBay Product Scraper
 
 This Node.js application scrapes product listings from eBay, extracts details such as product name, price, and description, and displays them in a simple UI. The scraped data is saved in a JSON file (`products.json`) and served via an HTTP server.
